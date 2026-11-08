@@ -1,0 +1,4 @@
+/Docs/
+*.pem
+node_modules/
+/frontend/dist/
