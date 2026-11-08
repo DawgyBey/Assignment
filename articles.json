@@ -1,0 +1,92 @@
+[
+  {
+    "title": "Local Team Wins Thrilling Championship Final",
+    "author": "Sita Sharma",
+    "category": "Sports",
+    "image": "https://picsum.photos/seed/sports1/600/400",
+    "content": "In front of a packed stadium, the home team secured the championship with a last-minute goal. Fans stayed on their feet through the final minutes as both sides pushed for a winner.\n\nThe captain said the win was the result of a full season of hard work and belief in the group. Celebrations continued in the streets late into the night.",
+    "createdAt": { "$date": "2026-11-07T08:00:00.000Z" },
+    "updatedAt": { "$date": "2026-11-07T08:00:00.000Z" }
+  },
+  {
+    "title": "Young Runners Prepare for Annual City Marathon",
+    "author": "Ram Thapa",
+    "category": "Sports",
+    "image": "https://picsum.photos/seed/sports2/600/400",
+    "content": "More than two thousand runners have registered for this year's city marathon, the highest number ever. Many first-time participants have been training in local parks for months.\n\nOrganizers say water stations and medical tents will be placed every two kilometres along the route.",
+    "createdAt": { "$date": "2026-11-06T08:00:00.000Z" },
+    "updatedAt": { "$date": "2026-11-06T08:00:00.000Z" }
+  },
+  {
+    "title": "New Programming Course Opens for Beginners",
+    "author": "Anita Gurung",
+    "category": "Technology",
+    "image": "https://picsum.photos/seed/tech1/600/400",
+    "content": "A free online course aimed at complete beginners has opened enrolment this week. It covers the basics of HTML, CSS and JavaScript, and ends with students building a small website.\n\nInstructors say no previous experience is needed, only a computer and the willingness to practise a little each day.",
+    "createdAt": { "$date": "2026-11-05T08:00:00.000Z" },
+    "updatedAt": { "$date": "2026-11-05T08:00:00.000Z" }
+  },
+  {
+    "title": "Solar-Powered Buses Begin Test Runs",
+    "author": "Bikash Rai",
+    "category": "Technology",
+    "image": "https://picsum.photos/seed/tech2/600/400",
+    "content": "Two solar-assisted buses have started trial runs on a busy city route. Engineers say the rooftop panels reduce battery use during the day and help lower running costs.\n\nIf the trial goes well, the transport office plans to add more buses next year.",
+    "createdAt": { "$date": "2026-11-04T08:00:00.000Z" },
+    "updatedAt": { "$date": "2026-11-04T08:00:00.000Z" }
+  },
+  {
+    "title": "Parliament Debates New Education Budget",
+    "author": "Maya Karki",
+    "category": "Politics",
+    "image": "https://picsum.photos/seed/politics1/600/400",
+    "content": "Lawmakers spent most of the day discussing next year's education budget. Supporters argued that more funds are needed for school buildings and teacher training.\n\nOthers asked for clearer reports on how earlier funds were spent before approving any increase. The debate will continue next week.",
+    "createdAt": { "$date": "2026-11-03T08:00:00.000Z" },
+    "updatedAt": { "$date": "2026-11-03T08:00:00.000Z" }
+  },
+  {
+    "title": "Voters Urged to Check Their Names on the List",
+    "author": "Sunil Adhikari",
+    "category": "Politics",
+    "image": "https://picsum.photos/seed/politics2/600/400",
+    "content": "Election officials have asked citizens to check that their names appear correctly on the voter list. Corrections can be made at the local ward office until the deadline.\n\nOfficials say a few minutes of checking now can avoid problems on voting day.",
+    "createdAt": { "$date": "2026-11-02T08:00:00.000Z" },
+    "updatedAt": { "$date": "2026-11-02T08:00:00.000Z" }
+  },
+  {
+    "title": "Film Festival Opens With Short Films From Students",
+    "author": "Pooja Lama",
+    "category": "Entertainment",
+    "image": "https://picsum.photos/seed/ent1/600/400",
+    "content": "The annual film festival opened this weekend with a special screening of short films made by college students. The films ranged from comedies to documentaries about everyday life.\n\nThe audience praised the creativity shown, and organisers said entries doubled compared with last year.",
+    "createdAt": { "$date": "2026-11-01T08:00:00.000Z" },
+    "updatedAt": { "$date": "2026-11-01T08:00:00.000Z" }
+  },
+  {
+    "title": "Street Musicians Bring Life to Old Market Square",
+    "author": "Dipesh Shrestha",
+    "category": "Entertainment",
+    "image": "https://picsum.photos/seed/ent2/600/400",
+    "content": "Every Saturday evening a group of local musicians now plays in the old market square. Shoppers stop to listen, and some join in with clapping and dancing.\n\nThe group hopes to turn the weekly gathering into a small music festival during the next holiday season.",
+    "createdAt": { "$date": "2026-10-31T08:00:00.000Z" },
+    "updatedAt": { "$date": "2026-10-31T08:00:00.000Z" }
+  },
+  {
+    "title": "Community Plants One Thousand Trees in a Day",
+    "author": "Kamala Joshi",
+    "category": "General",
+    "image": "https://picsum.photos/seed/general1/600/400",
+    "content": "Volunteers of all ages gathered on a hillside this Sunday and planted one thousand saplings in a single day. Schools, clubs and families all took part.\n\nOrganisers say volunteers will return each month to water the young trees and check how they are growing.",
+    "createdAt": { "$date": "2026-10-30T08:00:00.000Z" },
+    "updatedAt": { "$date": "2026-10-30T08:00:00.000Z" }
+  },
+  {
+    "title": "Library Extends Opening Hours for Exam Season",
+    "author": "Nabin Basnet",
+    "category": "General",
+    "image": "",
+    "content": "The public library will stay open two extra hours every evening during exam season. Students can use the reading rooms and free Wi-Fi.\n\nThe librarian said the change was made after many students asked for a quiet place to study after classes.",
+    "createdAt": { "$date": "2026-10-29T08:00:00.000Z" },
+    "updatedAt": { "$date": "2026-10-29T08:00:00.000Z" }
+  }
+]
