@@ -7,7 +7,7 @@ const app = express();
 const port = 8000;
 
 // Change this if your MongoDB runs somewhere else (e.g. MongoDB Atlas link)
-const dbUrl = "mongodb://127.0.0.1:27017/newsapp";
+const dbUrl = "mongodb+srv://admin:admin123@cluster0.f8i4awh.mongodb.net/newsapp?retryWrites=true&w=majority";
 
 // middleware: runs on every request before our routes
 app.use(cors()); // lets the React app (port 5173) talk to this server (port 8000)
